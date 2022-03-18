@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Learning Github!"
 ---
-Do you think there are more wheels or doors in the world?
-Use the left arrow to go back!
+Replace line 5 with something new
+Use the left arrow to go back!!!
